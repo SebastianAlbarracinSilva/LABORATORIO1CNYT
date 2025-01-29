@@ -1,7 +1,6 @@
-# Librería computación cuántica: Números complejos CNYT
+# Números complejos CNYT
 
-## **Estudiante:** Alexandra Moreno Latorre
-
+## **Estudiante:** Sebastian Albarracin Silva
 
 Librería diseñada con el propósito de realizar operaciones entre números complejos.
 
@@ -18,7 +17,7 @@ Esta librería soporta las siguientes operaciones:
 
 ## ¿Cómo se utiliza?
 
-Se necesita conocer los números complejos que se desean operar y escoger correctamente las funciones que ya están marcadas y simplificadas para su correcto uso.
+Se debe realizar las diferentes operaciones entre numeros complejos
 
 ## Datos
 
