@@ -31,15 +31,15 @@ De esta manera se representan los números complejos. Es necesario saber que par
 
 
 ``` txt
-2 + 1i
+5 + 7i
 ```
 Ejemplo del ingreso de datos para realizar una operación:
 
-(4, 7) , (2, 3)
+(10, 27) , (23, 35)
 
 De este modo el código realiza la operación correspondiente y entrega el resultado así:
 
-2 , 4
+10 , 4
 
 ## Contenido
 
